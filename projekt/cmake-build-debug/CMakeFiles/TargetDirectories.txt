@@ -1,0 +1,3 @@
+C:/Users/pytlu/CLionProjects/projekt/cmake-build-debug/CMakeFiles/projekt.dir
+C:/Users/pytlu/CLionProjects/projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pytlu/CLionProjects/projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
